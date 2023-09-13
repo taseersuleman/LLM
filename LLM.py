@@ -3,7 +3,7 @@ import replicate
 import streamlit as st
 
 st.balloons()
-st.title("MY LLM")
+st.title("Taseer GPT")
 
 os.environ["REPLICATE_API_TOKEN"] = "r8_B4HzugJcQsP5oorG5vLVIhYX67m7iwM2lmIjA"
 
